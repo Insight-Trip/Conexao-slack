@@ -41,7 +41,7 @@ public class Conexao {
                 mensagem.append(i + 1).append(". ").append(uf.getNome()).append("\n");
             }
 
-            mensagem.append("\nPara mais informações, acesse nosso sistema em: https://InsightTrip.com/");
+            mensagem.append("\nPara mais informações, acesse nosso sistema em: [InsightTrip](https://InsightTrip.com/)");
 
             String finalMensagem = mensagem.toString();
 
